@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فوروارد پیامک</string>
+
+    <string name="master_switch_label">فعال بودن فوروارد پیامک‌ها (کلی)</string>
+    <string name="enable_all">فعال کردن همه رول‌ها</string>
+    <string name="disable_all">غیرفعال کردن همه رول‌ها</string>
+    <string name="no_rules_yet">هنوز رولی اضافه نکرده‌اید. با دکمه‌ی + یک رول جدید بسازید.</string>
+
+    <string name="add_rule_title">افزودن رول</string>
+    <string name="from_number_label">شماره فرستنده</string>
+    <string name="from_number_hint">مثلاً 09121234567</string>
+    <string name="all_numbers_checkbox">فوروارد از همه‌ی شماره‌ها</string>
+    <string name="to_number_label">شماره مقصد (ارسال به)</string>
+    <string name="to_number_hint">مثلاً 09359876543</string>
+    <string name="save">ذخیره</string>
+
+    <string name="all_numbers">همه شماره‌ها</string>
+    <string name="rule_from_label">از: %1$s</string>
+    <string name="rule_to_label">به: %1$s</string>
+
+    <string name="delete">حذف</string>
+    <string name="delete_rule_title">حذف رول</string>
+    <string name="delete_rule_message">آیا از حذف رول «از %1$s به %2$s» مطمئن هستید؟</string>
+    <string name="cancel">انصراف</string>
+    <string name="ok">باشه</string>
+
+    <string name="error_from_required">شماره فرستنده را وارد کنید یا گزینه «همه شماره‌ها» را بزنید</string>
+    <string name="error_to_required">شماره مقصد را وارد کنید</string>
+
+    <string name="notification_channel_name">سرویس فوروارد پیامک</string>
+    <string name="notification_text">در حال رصد پیامک‌های ورودی برای فوروارد کردن…</string>
+    <string name="forward_template">پیامک از %1$s:\n%2$s</string>
+
+    <string name="battery_dialog_title">اجازه اجرای همیشگی در پس‌زمینه</string>
+    <string name="battery_dialog_message">برای اینکه برنامه توسط سیستم بسته نشود و همیشه پیامک‌ها را فوروارد کند، لازم است بهینه‌سازی باتری برای این برنامه غیرفعال شود. در صفحه بعد گزینه «Allow» یا «عدم محدودیت» را انتخاب کنید.</string>
+</resources>
