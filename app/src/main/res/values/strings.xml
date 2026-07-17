@@ -14,6 +14,12 @@
     <string name="to_number_label">شماره مقصد (ارسال به)</string>
     <string name="to_number_hint">مثلاً 09359876543</string>
     <string name="save">ذخیره</string>
+    <string name="pick_from_contacts">📇 انتخاب از مخاطبین</string>
+    <string name="pick_from_inbox">💬 انتخاب از پیامک‌های اخیر</string>
+    <string name="inbox_picker_title">یک شماره را از پیامک‌های اخیر انتخاب کنید</string>
+    <string name="inbox_picker_empty">پیامکی برای نمایش پیدا نشد (ممکن است مجوز خواندن پیامک لازم باشد)</string>
+    <string name="permission_needed_contacts">برای این کار به مجوز دسترسی به مخاطبین نیاز است</string>
+    <string name="permission_needed_sms_read">برای این کار به مجوز خواندن پیامک‌ها نیاز است</string>
 
     <string name="all_numbers">همه شماره‌ها</string>
     <string name="rule_from_label">از: %1$s</string>
